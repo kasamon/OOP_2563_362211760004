@@ -1,24 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ec14800-4e15-4c3b-949b-b5c79576310a" name="Default Changelist" comment=" logged in.">
-      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_do_while.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_for.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_for2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_if.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_if_else_if.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_nested_loop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_switch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB3/ex_while.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB4/ex_check_number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB4/ex_login_system.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB4/ex_method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB4/ex_overload_method.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB5/ex_Array2D.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB5/ex_array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB5/ex_array2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2ec14800-4e15-4c3b-949b-b5c79576310a" name="Default Changelist" comment=" logged in. Update Lab" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,6 +16,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="cfd3daf8-657b-4c83-ab1a-50608595b406" />
   </component>
   <component name="ProjectId" id="1mhIQ7INwq63S0t1Lw1XJZaJqD6" />
   <component name="ProjectViewState">
@@ -136,7 +122,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609940895465</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary=" logged in. Update Lab">
+      <created>1610430093175</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1610430093175</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -155,6 +148,7 @@
     <MESSAGE value="Login" />
     <MESSAGE value="Successfully logged in." />
     <MESSAGE value=" logged in." />
-    <option name="LAST_COMMIT_MESSAGE" value=" logged in." />
+    <MESSAGE value=" logged in. Update Lab" />
+    <option name="LAST_COMMIT_MESSAGE" value=" logged in. Update Lab" />
   </component>
 </project>
