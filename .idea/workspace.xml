@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="2ec14800-4e15-4c3b-949b-b5c79576310a" name="Default Changelist" comment=" logged in. Update Lab">
-      <change afterPath="$PROJECT_DIR$/src/LAB6/ex_StringToken.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB6/ex_stringl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB7/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/LAB7/StudentApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="2ec14800-4e15-4c3b-949b-b5c79576310a" name="Default Changelist" comment=" logged in. Update Lab6,7" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -30,9 +24,6 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
     <option name="UPDATE_TYPE" value="REBASE" />
   </component>
-  <component name="GithubDefaultAccount">
-    <option name="defaultAccountId" value="cfd3daf8-657b-4c83-ab1a-50608595b406" />
-  </component>
   <component name="ProjectId" id="1mhIQ7INwq63S0t1Lw1XJZaJqD6" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -42,7 +33,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="project.structure.last.edited" value="Problems" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
@@ -187,7 +178,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610431142508</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary=" logged in. Update Lab6,7">
+      <created>1611660527657</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1611660527657</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -207,6 +205,7 @@
     <MESSAGE value="Successfully logged in." />
     <MESSAGE value=" logged in." />
     <MESSAGE value=" logged in. Update Lab" />
-    <option name="LAST_COMMIT_MESSAGE" value=" logged in. Update Lab" />
+    <MESSAGE value=" logged in. Update Lab6,7" />
+    <option name="LAST_COMMIT_MESSAGE" value=" logged in. Update Lab6,7" />
   </component>
 </project>
