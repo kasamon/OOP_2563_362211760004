@@ -6,7 +6,18 @@ public class Car {
     private String color;
     private String brand;
 
+    public Car(){
+
+    }
+    public Car(String id, String color, String brand) {
+        this.id = id;
+        this.color = color;
+        this.brand = brand;
+    }
+
+
     public String getId() {
+
         return id;
     }
 
